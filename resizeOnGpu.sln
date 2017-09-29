@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cudaTest", "cudaTest\cudaTest.vcxproj", "{AB83EF8A-2378-4360-91F4-607005C5D517}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "resizeOnGpu", "resizeOnGpu\resizeOnGpu.vcxproj", "{AB83EF8A-2378-4360-91F4-607005C5D517}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
